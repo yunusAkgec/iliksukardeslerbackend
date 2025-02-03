@@ -1,0 +1,8 @@
+com\example\iliksukardesler\config\SecurityConfig.class
+com\example\iliksukardesler\repository\UserRepository.class
+com\example\iliksukardesler\service\JwtTokenProvider.class
+com\example\iliksukardesler\model\User.class
+com\example\iliksukardesler\controller\AuthenticationController.class
+com\example\iliksukardesler\model\Role.class
+com\example\iliksukardesler\IliksukardeslerApplication.class
+com\example\iliksukardesler\service\UserService.class
